@@ -1,4 +1,4 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am Tom! 
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 Experienced junior software developer proficient in Java, familiar with the Spring Framework, and skilled in MySQL and Golang. Specializing in building robust server solutions, seamlessly integrating RESTful APIs, and ensuring secure applications. Proficient in connecting backend to frontend using HTML, CSS, JavaScript, React, Next.js, and Angular. Detail-oriented, adaptable, and passionate about continual growth in software development. Excited to contribute and grow as a developer.
 <div>
